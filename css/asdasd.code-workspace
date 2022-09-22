@@ -1,0 +1,28 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\..\\HTML\\Quân"
+		},
+		{
+			"path": "c:\\react-webpack"
+		},
+		{
+			"path": "..\\..\\..\\f8.shop"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+    "settings": {
+        "cSpell.words": [
+            "chào",
+            "chứa",
+            "dụng",
+            "những",
+            "trong",
+            "tương",
+            "viện"
+        ],
+        "liveServer.settings.multiRootWorkspaceName": "w3_band"
+    }
+}
